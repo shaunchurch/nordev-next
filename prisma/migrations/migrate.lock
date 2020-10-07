@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20201007081338-add-user-and-post
+20201007081534-add-bio-to-user
+20201007081635-actually-remove-bio-on-user
